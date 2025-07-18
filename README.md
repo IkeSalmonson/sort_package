@@ -2,6 +2,10 @@
 
 This project contains a simple Python function designed to sort packages into different stacks based on their dimensions and mass. It was developed focused for ease of use and testing.
 
+## **How to Use**
+Open the Google Colaboratory notebook and run all cells. 
+[Link to open sorter_main_py.ipynb](https://colab.research.google.com/github/IkeSalmonson/sort_package/blob/main/sorter_main_py.ipynb)
+
 ## **Rules for Sorting**
 
 The sort function classifies packages according to the following criteria:
@@ -35,7 +39,3 @@ The last cell executes pytest as a command to run the testing suit.
 The project uses the pytest library for testing. 
 All covered test cases are declared as a list of expected inputs and outputs.
 
-## **How to Use**
-Open the Google Colaboratory notebook and run all cells. 
-
-## **Structure**
