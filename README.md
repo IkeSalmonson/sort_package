@@ -4,8 +4,10 @@ This project contains a simple Python function designed to sort packages into di
 
 ## **How to Use**
 Open the Google Colaboratory notebook and run all cells. 
-[Link to open sorter_main_py.ipynb](https://colab.research.google.com/github/IkeSalmonson/sort_package/blob/main/sorter_main_py.ipynb)
-
+<a href="https://colab.research.google.com/github/IkeSalmonson/sort_package/blob/main/sorter_main_py.ipynb" target="_blank">
+Link to open sorter_main_py.ipynb
+</a>
+<br>
 ## **Rules for Sorting**
 
 The sort function classifies packages according to the following criteria:
